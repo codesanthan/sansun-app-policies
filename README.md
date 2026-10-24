@@ -4,3 +4,4 @@ Public privacy-policy and support pages for iOS apps, served via GitHub Pages. E
 
 - Symptom Tracker: `privacy/symptomtracker.html`, `support/symptomtracker.html`
 - ClaimMyCash (SettlementScout): `privacy/settlementscout.html`, `support/settlementscout.html`
+- Options Screeners (WheelScreener): `privacy/optionsscreeners.html`, `support/optionsscreeners.html`
